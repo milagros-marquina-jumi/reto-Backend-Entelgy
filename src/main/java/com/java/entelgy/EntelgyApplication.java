@@ -10,4 +10,5 @@ public class EntelgyApplication {
 		SpringApplication.run(EntelgyApplication.class, args);
 	}
 
+	
 }
